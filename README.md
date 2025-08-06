@@ -7,7 +7,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 ## 🚀 Live Demo
 
 🔗 [Play Tic Tac Toe](#)  
-*(Add GitHub Pages or Netlify link if you deploy it)*
+https://nani2384.github.io/tic-tac-toe/
 
 ---
 
